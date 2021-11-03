@@ -4,7 +4,7 @@ body{text-align:center;padding:0;margin:0}
 .hero{background:linear-gradient(#bf9056 0%, #d9b589 55%, #ebd8c0 69%, #e3c5a0 100%) #e3c5a0;padding:40px 0 60px;border-bottom:1px solid #bf9056}
 h1 {text-transform:uppercase;margin:0 0 5px 0;color:#463527;font-weight:normal;font-size:1.6em}
 .clear{clear:both}
-.watch-desc {margin-bottom:90px;font-size:.4em}
+.watch-desc {margin-bottom:90px;font-size:.8em}
 .winding {text-transform:uppercase;font-size:.85em;letter-spacing:1px}
 .type {text-transform:uppercase;letter-spacing:1px;margin-bottom:20px}
 .reference {color:#ab947d}
